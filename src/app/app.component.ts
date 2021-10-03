@@ -9,7 +9,12 @@ import {DialogBtnTwoComponent} from "./components/dialog-btn-two/dialog-btn-two.
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'floating-action-button';
+  title = 'Floating Action Button';
+
+
+  // Morgana Maria
+  // Floating Action Button
+  // 03.10.2021
 
   public openbtn: boolean = false;
 
